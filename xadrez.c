@@ -2,6 +2,8 @@
 
 
 int main(void) {
+
+    //Movimento da Torre usando while
     int torre = 0;      // posição atual da peça (coluna)
     const int movimento = 5; // queremos mover 5 casas para a direita
 
